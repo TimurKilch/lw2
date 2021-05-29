@@ -55,7 +55,7 @@
 
 ![Screenshot_11](https://user-images.githubusercontent.com/55550028/120068620-3f014600-c08a-11eb-9851-333c53c87197.png)
 
-14.   Переведем процедуру в интерактивный режим:
+11.   Переведем процедуру в интерактивный режим:
 [root@localhost]# fg 
 ```sh
 python s.py
